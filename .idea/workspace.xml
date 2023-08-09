@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f44ae4d6-dcaa-4f4f-bfbd-cdda5654ab9a" name="Changes" comment="atualização" />
+    <list default="true" id="f44ae4d6-dcaa-4f4f-bfbd-cdda5654ab9a" name="Changes" comment="atualização">
+      <change beforePath="$PROJECT_DIR$/.idea/br/edu/ifs/exercise/calculadora.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/br/edu/ifs/exercise/fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/br/edu/ifs/exercise/movimentoCaixa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/br/edu/ifs/exercise/sistemaPix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +18,8 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="module" />
       <option value="directory" />
+      <option value="module" />
     </option>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -26,6 +32,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8c7dd26f-ef02-44f8-81af-7995dd31e424" />
+        <option name="url" value="https://github.com/Radjavt/python_projects.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,13 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\python_projects\.idea" />
@@ -70,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691593968685</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="atualização">
+      <created>1691594044703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691594044703</updated>
+    </task>
+    <task id="LOCAL-00004" summary="atualização">
+      <created>1691613868893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691613868893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
